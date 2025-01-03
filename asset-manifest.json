@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/abacus_demo/static/css/main.e6c13ad2.css",
+    "main.js": "/static/abacus_demo/static/js/main.34c2a689.js",
+    "static/js/787.eac03221.chunk.js": "/static/abacus_demo/static/js/787.eac03221.chunk.js",
+    "index.html": "/static/abacus_demo/index.html",
+    "main.e6c13ad2.css.map": "/static/abacus_demo/static/css/main.e6c13ad2.css.map",
+    "main.34c2a689.js.map": "/static/abacus_demo/static/js/main.34c2a689.js.map",
+    "787.eac03221.chunk.js.map": "/static/abacus_demo/static/js/787.eac03221.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.34c2a689.js"
+  ]
+}
